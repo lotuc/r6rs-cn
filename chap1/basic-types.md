@@ -4,17 +4,17 @@ Scheme 程序对象操纵*对象*， 也就是*值*。 Scheme 对象被组织成
 
 **Booleans**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一个 boolean 为 true 或者 false。 在 Scheme 中对应 “false” 的对象记为 **#f**， 对应 “true” 的对象记为 **#t**。 然而， 在大部分要使用 true 值的地方， 任何不为 **#f** 的对象被视为 true。
 
-**Numbers**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scheme 支持种类繁多的数类型， 包括用于表示任意精度整数、 有理数、 复数安定各种非精确数的对象。 
+**Numbers(数)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scheme 支持种类繁多的数类型， 包括用于表示任意精度整数、 有理数、 复数安定各种非精确数的对象。 
 
-**Characters**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scheme characters 对应于文本字符。 更精确的说， 它们与 Unicode 标准中*标量*的同构。
+**Characters(字符)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scheme characters 对应于文本字符。 更精确的说， 它们与 Unicode 标准中*标量*的同构。
 
-**Strings**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strings 是 characters 组成的定长序列， 因此可以表示任意的 Unicode 文本。
+**Strings(字符串)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strings 是 characters 组成的定长序列， 因此可以表示任意的 Unicode 文本。
 
-**Symbols**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一个 symbol 是一个对象， 它用于表示 symbol 的名字字符串。 和 string 不同， 两个名字拼写一样的 symbol 是不可区分的。 Symbols 在很多地方非常有用， 如可以像其它语言中的枚举值那样使用。
+**Symbols(符号)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一个 symbol 是一个对象， 它用于表示 symbol 的名字字符串。 和 string 不同， 两个名字拼写一样的 symbol 是不可区分的。 Symbols 在很多地方非常有用， 如可以像其它语言中的枚举值那样使用。
 
 **Pairs 和 lists**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一个 pair 是一个包含两个部分的数据结构。 pairs 最常用来表示（单链）lists， 其第一个部分（ “car” 部分）表示一个 list 的第一个元素， 第二个部分（ “cdr” 部分）表示该 list 的剩余部分。 Scheme 中区分出了一个空 list， 它是使用 pair 构成的 list 的 cdr 链的最后一个 cdr。
 
-**Vectors**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 和 list 类似， 是一个线性的数据结构， 用于表示有限的任意对象序列。 但是其中的对象通过整数的顺序索引引用。因此更适合用于需要对组成元素进行通过位置随机取值的情形。
+**Vectors(矢量)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 和 list 类似， 是一个线性的数据结构， 用于表示有限的任意对象序列。 但是其中的对象通过整数的顺序索引引用。因此更适合用于需要对组成元素进行通过位置随机取值的情形。
 
 **Procedures**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在 Scheme 中 procedures 也是值。
 
