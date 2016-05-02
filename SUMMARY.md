@@ -4,3 +4,5 @@
 * [介绍](chap0/introduction.md)
 * [Scheme 概述](chap1/overview-of-scheme.md)
   * [基本类型](chap1/basic-types.md)
+  * [表达式](chap1/expressions.md)
+  * [变量和绑定](chap1/variables-and-binding.md)
