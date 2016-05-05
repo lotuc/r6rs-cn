@@ -12,3 +12,4 @@
   * [Procedure 调用和 syntactic 关键字](chap1/procedure-calls-and-syntactic-keywords.md)
   * [赋值](chap1/assignment.md)
   * [Derived forms 和 macros](chap1/derived-forms-and-macros.md)
+  * [Syntactic data 和 datum values](chap1/syntactic-data-and-datum-values.md)
