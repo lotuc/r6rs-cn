@@ -17,3 +17,5 @@
   * [库(Library)](chap1/libraries.md)
   * [Top-level 程序](chap1/top-level-programs.md)
 * [Requirement levels](chap2/requirement-level.md)
+* [数](chap3/numbers.md)
+  * [Numerical tower](chap3/numerical-tower.md)
