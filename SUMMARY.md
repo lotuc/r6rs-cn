@@ -1,7 +1,5 @@
 # 目录
 
-* [封面](chap0/pre.md)
-* [介绍](chap0/introduction.md)
 * [Scheme 概述](chap1/overview-of-scheme.md)
   * [基本类型](chap1/basic-types.md)
   * [表达式](chap1/expressions.md)
@@ -22,3 +20,4 @@
   * [精度(exactness)](chap3/exactness.md)
   * [fixnums 和 flonums](chap3/fixnums-and-flonums.md)
   * [Infinities 和 NaNs](chap3/infinities-and-nans.md)
+* [Lexical syntax 和 datum syntax](chap4/lexical-syntax-and-datum-syntax.md)
