@@ -66,3 +66,5 @@ tramp
 Session.vim
 .netrwhist
 *~
+
+*.org
