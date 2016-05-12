@@ -18,6 +18,5 @@
 * [数](chap3/numbers.md)
   * [Numerical tower](chap3/numerical-tower.md)
   * [精度(exactness)](chap3/exactness.md)
-  * [fixnums 和 flonums](chap3/fixnums-and-flonums.md)
-  * [Infinities 和 NaNs](chap3/infinities-and-nans.md)
-* [Lexical syntax 和 datum syntax](chap4/lexical-syntax-and-datum-syntax.md)
+* [附录: 翻译对照](appendix/trans.md)
+* [附录: 一些术语](appendix/terms.md)
