@@ -1,4 +1,4 @@
-本报告中的关键字 “must”， “must not”， “should”， “should not”， “recommended”， “may” 和 “optional” 的意义按 RFC 2119 中的描述：
+本报告中的关键字 “must”， “must not”， “should”， “should not”， “recommended”， “may” 和 “optional” 的意义按 [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt) 中的描述：
 
 **must**&nbsp;&nbsp;&nbsp;&nbsp;表示在规范中是必须的要求。
 
