@@ -25,6 +25,5 @@
 * [lexical语法和datum语法](chap4/lexical-syntax-and-datum-synatx.md)
   * [标记(notation)](chap4/notations.md)
   * [lexical语法](chap4/lexical-syntax.md)
-  * [形式化描述](chap4/formal-account.md)
 * [附录: 翻译对照](appendix/trans.md)
 * [附录: 一些术语](appendix/terms.md)
