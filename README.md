@@ -1,6 +1,5 @@
-| 日期 | 要说的 |
-|--|--|
-| 2016.5.2 | 将是对 [Revised6 Report on the Algorithmic Language Scheme](http://www.r6rs.org/) 的一个非专业不负责任的一个粗糙翻译。 |
+* 2016.5.2: 将是对 [Revised6 Report on the Algorithmic Language Scheme](http://www.r6rs.org/) 的一个非专业不负责任的一个粗糙翻译。
+* 2016.9.27: 因为发现了 r5rs 译文，此翻译应该不会继续，[第5修订报告中文翻译版（王咏刚翻译）下载地址](http://www.math.pku.edu.cn/teachers/qiuzy/progtech/scheme/r5rscn.pdf)
 
 ---
 
